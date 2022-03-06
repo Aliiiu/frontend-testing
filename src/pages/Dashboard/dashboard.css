@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700&family=Work+Sans:wght@500&display=swap');
+
+.dashboard {
+    flex: 4;
+    background-color: #E5E5E5;
+}
+
+.feature-section {
+    margin: 50px 20px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #213F7D;
+}

@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 2,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 4,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 5,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 8,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 9,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 10,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 11,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 12,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 13,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 14,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 15,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 16,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 17,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 18,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 19,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 20,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 21,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 22,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 23,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 24,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 25,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 26,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 27,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 28,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 29,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 30,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 31,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 32,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 33,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 34,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 35,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 36,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 37,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 38,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 39,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 40,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 41,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 42,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 43,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 44,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 45,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 46,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 47,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 48,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 49,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 50,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 51,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 52,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 53,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 54,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Pending"
+    },
+    {
+        "id": 55,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 56,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    },
+    {
+        "id": 57,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Blacklisted"
+    },
+    {
+        "id": 58,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 59,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Inactive"
+    },
+    {
+        "id": 60,
+        "organization": "lendsqr",
+        "username": "Ayodeji",
+        "email": "adedeji@lendsqr.com",
+        "phone number": "08078903721",
+        "date joined": "may 15, 2020 10:00 AM",
+        "status": "Active"
+    }
+]

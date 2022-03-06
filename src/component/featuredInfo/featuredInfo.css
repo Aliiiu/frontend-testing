@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700&family=Work+Sans:wght@500&display=swap');
+
+.featuredinfo {
+    width: 100%;
+    display: flex;
+}
+
+.featureditem {
+    display: flex;
+    flex: 1;
+    border-radius: 5px;
+    box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(33, 63, 125, 0.06);
+    flex-direction: column;
+    margin: 0 20px;
+    background-color: #fff;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.featureditem img {
+    margin-bottom: 10px;
+}
+
+.featureTitle {
+    margin-bottom: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #545F7D;
+}
+
+.featureUsers {
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+
+    color: #213F7D;
+}
