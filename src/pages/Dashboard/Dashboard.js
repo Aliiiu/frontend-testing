@@ -1,10 +1,10 @@
 import React from 'react';
 import FeaturedInfo from '../../component/featuredInfo/FeaturedInfo';
-import FilterForm from '../../component/FilterForm/FilterForm';
+// import FilterForm from '../../component/FilterForm/FilterForm';
 import Sidebar from '../../component/Sidebar/Sidebar';
 import Topbar from '../../component/Topbar/Topbar';
 import PaginatedItems from '../../component/UserDetails/UserDetails';
-import ViewMore from '../../component/ViewMore/ViewMore';
+// import ViewMore from '../../component/ViewMore/ViewMore';
 import './dashboard.css';
 
 const Dashboard = () => {
